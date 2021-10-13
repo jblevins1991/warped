@@ -1,0 +1,21 @@
+.location-list-wrapper {
+    flex: 1 1;
+    max-width: 360px;
+    padding: 1rem;
+
+    .location-list {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        max-height: 700px;
+        background-color: #484848;
+        list-style: none;
+        padding: 0px;
+        margin: 0px;
+
+        .location-list-item {
+            color: #FFFFFF;
+            padding: .5rem;
+        }
+    }
+}

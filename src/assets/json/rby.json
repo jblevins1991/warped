@@ -1,0 +1,367 @@
+{
+    "warpables": [
+        {
+            "name": "Pallet Town",
+            "size": {
+                "width": "25px",
+                "height": "25px"
+            },
+            "position": {
+                "x": 275,
+                "y": 100
+            }
+        },
+        {
+            "name": "Viridian City",
+            "size": {
+                "width": "25px",
+                "height": "25px"
+            },
+            "position": {
+                "x": 200,
+                "y": 100
+            }
+        },
+        {
+            "name": "Route 2",
+            "size": {
+                "width": "25px",
+                "height": "100px"
+            },
+            "position": {
+                "x": 100,
+                "y": 100
+            }
+        },
+        {
+            "name": "Pewter City",
+            "size": {
+                "width": "25px",
+                "height": "25px"
+            },
+            "position": {
+                "x": 75,
+                "y": 100
+            }
+        },
+        {
+            "name": "Mt Moon",
+            "size": {
+                "width": "50px",
+                "height": "25px"
+            },
+            "position": {
+                "x": 50,
+                "y": 175
+            }
+        },
+        {
+            "name": "Cerulean City",
+            "size": {
+                "width": "25px",
+                "height": "25px"
+            },
+            "position": {
+                "x": 50,
+                "y": 300
+            }
+        },
+        {
+            "name": "Route 25",
+            "size": {
+                "width": "50px",
+                "height": "25px"
+            },
+            "position": {
+                "x": 0,
+                "y": 325
+            }
+        },
+        {
+            "name": "Route 5",
+            "size": {
+                "width": "25px",
+                "height": "50px"
+            },
+            "position": {
+                "x": 75,
+                "y": 300
+            }
+        },
+        {
+            "name": "Route 6",
+            "size": {
+                "width": "25px",
+                "height": "75px"
+            },
+            "position": {
+                "x": 150,
+                "y": 300
+            }
+        },
+        {
+            "name": "Vermillion City",
+            "size": {
+                "width": "25px",
+                "height": "25px"
+            },
+            "position": {
+                "x": 225,
+                "y": 300
+            }
+        },
+        {
+            "name": "Digglets Cave",
+            "size": {
+                "width": "25px",
+                "height": "25px"
+            },
+            "position": {
+                "x": 225,
+                "y": 325
+            }
+        },
+        {
+            "name": "SS Anne",
+            "size": {
+                "width": "25px",
+                "height": "25px"
+            },
+            "position": {
+                "x": 250,
+                "y": 300
+            }
+        },
+        {
+            "name": "Route 10",
+            "size": {
+                "width": "25px",
+                "height": "75px"
+            },
+            "position": {
+                "x": 50,
+                "y": 425
+            }
+        },
+        {
+            "name": "Route 11",
+            "size": {
+                "width": "50px",
+                "height": "25px"
+            },
+            "position": {
+                "x": 225,
+                "y": 350
+            }
+        },
+        {
+            "name": "Route 9",
+            "size": {
+                "width": "50px",
+                "height": "25px"
+            },
+            "position": {
+                "x": 50,
+                "y": 375
+            }
+        },
+        {
+            "name": "Power Plant",
+            "size": {
+                "width": "25px",
+                "height": "25px"
+            },
+            "position": {
+                "x": 100,
+                "y": 400
+            }
+        },
+        {
+            "name": "Rock Tunnel",
+            "size": {
+                "width": "25px",
+                "height": "25px"
+            },
+            "position": {
+                "x": 75,
+                "y": 400
+            }
+        },
+        {
+            "name": "Lavendar Town",
+            "size": {
+                "width": "25px",
+                "height": "25px"
+            },
+            "position": {
+                "x": 125,
+                "y": 400
+            }
+        },
+        {
+            "name": "Route 7",
+            "size": {
+                "width": "75px",
+                "height": "25px"
+            },
+            "position": {
+                "x": 125,
+                "y": 325
+            }
+        },
+        {
+            "name": "Route 8",
+            "size": {
+                "width": "50px",
+                "height": "25px"
+            },
+            "position": {
+                "x": 125,
+                "y": 250
+            }
+        },
+        {
+            "name": "Celadon City",
+            "size": {
+                "width": "25px",
+                "height": "25px"
+            },
+            "position": {
+                "x": 125,
+                "y": 225
+            }
+        },
+        {
+            "name": "Route 12",
+            "size": {
+                "width": "25px",
+                "height": "75px"
+            },
+            "position": {
+                "x": 150,
+                "y": 400
+            }
+        },
+        {
+            "name": "Route 13",
+            "size": {
+                "width": "25px",
+                "height": "50px"
+            },
+            "position": {
+                "x": 250,
+                "y": 400
+            }
+        },
+        {
+            "name": "Fuchsia City",
+            "size": {
+                "width": "25px",
+                "height": "25px"
+            },
+            "position": {
+                "x": 325,
+                "y": 250
+            }
+        },
+        {
+            "name": "Route 15",
+            "size": {
+                "width": "75px",
+                "height": "25px"
+            },
+            "position": {
+                "x": 325,
+                "y": 275
+            }
+        },
+        {
+            "name": "Route 17",
+            "size": {
+                "width": "75px",
+                "height": "25px"
+            },
+            "position": {
+                "x": 125,
+                "y": 150
+            }
+        },
+        {
+            "name": "Route 18",
+            "size": {
+                "width": "100px",
+                "height": "25px"
+            },
+            "position": {
+                "x": 325,
+                "y": 150
+            }
+        },
+        {
+            "name": "Saffron City",
+            "size": {
+                "width": "25px",
+                "height": "25px"
+            },
+            "position": {
+                "x": 125,
+                "y": 300
+            }
+        },
+        {
+            "name": "Seafoam Islands",
+            "size": {
+                "width": "25px",
+                "height": "25px"
+            },
+            "position": {
+                "x": 375,
+                "y": 175
+            }
+        },
+        {
+            "name": "Cinnabar Island",
+            "size": {
+                "width": "25px",
+                "height": "25px"
+            },
+            "position": {
+                "x": 375,
+                "y": 100
+            }
+        },
+        {
+            "name": "Route 22",
+            "size": {
+                "width": "50px",
+                "height": "25px"
+            },
+            "position": {
+                "x": 200,
+                "y": 50
+            }
+        },
+        {
+            "name": "Victory Road",
+            "size": {
+                "width": "25px",
+                "height": "125px"
+            },
+            "position": {
+                "x": 75,
+                "y": 50
+            }
+        },
+        {
+            "name": "Indigo Plateau",
+            "size": {
+                "width": "25px",
+                "height": "25px"
+            },
+            "position": {
+                "x": 50,
+                "y": 50
+            }
+        }
+    ]
+}

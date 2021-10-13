@@ -1,0 +1,7 @@
+const baseConfig = {
+    verbose: true,
+    preset: "ts-jest"
+  };
+  
+  module.exports = baseConfig;
+  

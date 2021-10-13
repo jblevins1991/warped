@@ -1,0 +1,16 @@
+.warpable {
+    background-color: gray;
+    opacity: .5;
+    width: 25px;
+    height: 25px;
+    border: none;
+    outline: none;
+
+    &.visited {
+        opacity: .75;
+    }
+
+    &:hover {
+        background-color: red;
+    }
+}

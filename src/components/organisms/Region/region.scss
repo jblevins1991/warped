@@ -1,0 +1,15 @@
+.region-wrapper {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+
+    .region-heading {
+        color: #FFFFFF;
+        padding: 1rem;
+    }
+
+    .region-location-wrapper {
+        display: flex;
+        flex-direction: row;
+    }
+}

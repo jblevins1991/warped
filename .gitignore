@@ -1,0 +1,10 @@
+# dependencies
+node_modules/
+
+# build and cache directories
+build/
+.cache/
+
+# ide directories
+.vscode/
+.idea/
